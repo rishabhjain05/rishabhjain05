@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 🤟, I'm Rishabh Jain </h1>
+<h3 align="left">A Big Data and DevOps enthusiast</h3>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400px" height="300px"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain05" alt="rishabhjain05" /> </p>
 
-<!--
-**rishabhjain05/rishabhjain05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li align="left"> 🔭 I’m currently exploring Cyber Security field</a></li>
 
-Here are some ideas to get you started:
+<li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/rishabhjain05/">Rishabh Jain</a></li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li align="left"> 📝 I post tips and tricks, regarding Big Data and DevOps on ➡︎ <a href="http://bigdslasher.com/">bigdslasher.com</a></li>
+
+<li align="left"> 🔬 Find my Research work on ➡︎ <a href="https://www.ijitee.org/wp-content/uploads/papers/v9i1/A3969119119.pdf">IJITEE Research</a></li>
+
+<li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Docker, Hadoop, Linux, MySql, Pig, Python</b></li>
+
+<li align="left"> 📫 Reach me at ➡︎ <b>rishabhking05@gmail.com</b></li>
+
+<li align="left"> ⚡ Interesting fact ➡︎ <b>I am a RedHat certified, Ansible specialist & System Administrator.</b></li><br/><br/>
+
+<p align="center">
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=rishabhjain05&theme=blue-green&show_icons=true" alt="rishabhjain05" />
+</p>
+
+<br/><br/>
+<p align="center">
+<a href="https://twitter.com/Jain__Saahab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jain__Saahab" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rishabhjain05/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishabhjain05" height="20" width="20" /></a>
+<a href="https://www.facebook.com/cloudboyRJ/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cloudboyRJ" height="20" width="20" /></a>
+</p>

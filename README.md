@@ -11,15 +11,23 @@
 
 <li align="left"> 🔬 Find my Research work on ➡︎ <a href="https://www.ijitee.org/wp-content/uploads/papers/v9i1/A3969119119.pdf">IJITEE Research</a></li>
 
-<li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Docker, Hadoop, Linux, MySql, Pig, Python</b></li>
+<li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Docker, Hadoop, Jupyter Notebook, Linux, MySql, Pig, Python, Wordpress </b></li>
 
 <li align="left"> 📫 Reach me at ➡︎ <b>rishabhking05@gmail.com</b></li>
 
 <li align="left"> ⚡ Interesting fact ➡︎ <b>I am a RedHat certified, Ansible specialist & System Administrator.</b></li><br/><br/>
 
 <p align="left">
-<br/><br/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> 
+<br/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="Ansible" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/> 
+<img src="" alt="Hadoop" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png " alt="jupyter-notebook" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
+<img src="" alt="Pig" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="Wordpress" width="40" height="40"/>
 </p>
 
 <p align="center">

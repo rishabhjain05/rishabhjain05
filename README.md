@@ -17,9 +17,14 @@
 
 <li align="left"> ⚡ Interesting fact ➡︎ <b>I am a RedHat certified, Ansible specialist & System Administrator.</b></li><br/><br/>
 
+<p align="left">
+<br/><br/>
+<img src="http://sachinchopra.codes/DeviCon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</p>
+
 <p align="center">
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhjain05&theme=blue-green&show_icons=true" alt="rishabhjain05" />
+<img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" />
 </p>
 
 <br/><br/>

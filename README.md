@@ -11,7 +11,7 @@
 
 <li align="left"> 🔬 Find my Research work on ➡︎ <a href="https://www.ijitee.org/wp-content/uploads/papers/v9i1/A3969119119.pdf">IJITEE Research</a></li>
 
-<li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Docker, Hadoop, Jupyter Notebook, Linux, MySql, Pig, Python, Wordpress </b></li>
+<li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Docker, Hadoop, Jupyter Notebook, Linux, MySql, Pig, Python, Ruby, Wordpress </b></li>
 
 <li align="left"> 📫 Reach me at ➡︎ <b>rishabhking05@gmail.com</b></li>
 
@@ -26,6 +26,7 @@
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/>
 <img src="https://getmanta.com/wp-content/uploads/2019/12/pig_logo.svg" alt="Pig" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="Wordpress" width="40" height="40"/>
 </p>
 

@@ -40,7 +40,7 @@
 <marquee> “ In order to be irreplaceable, one must always be different” – Coco Chanel </marquee>
 </p>
 
-<br/><br/>
+<br/>
 <p align="center">
 <a href="https://twitter.com/Jain__Saahab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jain__Saahab" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/rishabhjain05/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishabhjain05" height="20" width="20" /></a>

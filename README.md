@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-<br/><br/>
+<br/>
 <marquee> “ In order to be irreplaceable, one must always be different” – Coco Chanel </marquee>
 </p>
 

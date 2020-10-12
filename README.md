@@ -37,7 +37,7 @@
 
 <p align="center">
 <br/>
-<marquee bgcolor="cyan"> “ In order to be irreplaceable, one must always be different” – Coco Chanel </marquee>
+<span style="background-color: #00FFFF">“ In order to be irreplaceable, one must always be different” – Coco Chanel</span>
 </p>
 
 <br/>

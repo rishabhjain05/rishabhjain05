@@ -35,6 +35,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhjain05&theme=blue-green&show_icons=true" alt="rishabhjain05" />
 </p>
 
+<p align="center">
+<br/><br/>
+<marquee> “ In order to be irreplaceable, one must always be different” – Coco Chanel </marquee>
+</p>
+
 <br/><br/>
 <p align="center">
 <a href="https://twitter.com/Jain__Saahab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jain__Saahab" height="20" width="20" /></a>

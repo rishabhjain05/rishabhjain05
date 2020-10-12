@@ -1,4 +1,4 @@
-<h1 align="center"><marquee direction = "up">Hi 🤟, I'm Rishabh Jain </marquee></h1>
+<h1 align="center">Hi 🤟, I'm Rishabh Jain</h1>
 <h3 align="left">A Big Data and DevOps enthusiast</h3>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain05" alt="rishabhjain05" /> </p>

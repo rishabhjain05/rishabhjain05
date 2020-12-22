@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/> 
 <img src="https://sci2s.ugr.es/sites/default/files/files/TematicWebSites/BigData/hadoop-history.png" alt="Hadoop" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png " alt="jupyter-notebook" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+<img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/512/518/518713.png" alt="Linux" width="40" height="40"/>
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/>
 <img src="https://getmanta.com/wp-content/uploads/2019/12/pig_logo.svg" alt="Pig" width="40" height="40"/>

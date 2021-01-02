@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="Ansible" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/> 
 <img src="https://sci2s.ugr.es/sites/default/files/files/TematicWebSites/BigData/hadoop-history.png" alt="Hadoop" width="40" height="40"/>
-<img src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration-build-automation-continuous-delivery-software-build-integration-thumbnail.jpg" alt="Jenkins" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png " alt="jupyter-notebook" width="40" height="40"/>
 <img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/512/518/518713.png" alt="Linux" width="40" height="40"/>

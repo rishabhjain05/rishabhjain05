@@ -7,8 +7,6 @@
 
 <li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/rishabhjain05/">Rishabh Jain</a></li>
 
-<li align="left"> 📝 I post tips and tricks, regarding Big Data and DevOps on ➡︎ <a href="http://bigdslasher.com/">bigdslasher.com</a></li>
-
 <li align="left"> 🔬 Find my Research work on ➡︎ <a href="https://www.ijitee.org/wp-content/uploads/papers/v9i1/A3969119119.pdf">IJITEE Research</a></li>
 
 <li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Docker, Hadoop, Jupyter Notebook, Linux, MySql, Pig, Python, Ruby, Wordpress </b></li>

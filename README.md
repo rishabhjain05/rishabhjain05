@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤟, I'm Rishabh Jain</h1>
-<h3 align="left">A Big Data and DevOps enthusiast</h3>
+<h3 align="left">I am an experienced DevOps Engineer</h3>
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain05" alt="rishabhjain05" /> </p>
 

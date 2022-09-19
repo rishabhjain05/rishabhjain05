@@ -5,7 +5,7 @@
 
 <li align="left"> 🔭 I’m currently exploring Cyber Security field</a></li>
 
-<li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/rishabhjain05/">Rishabh Jain</a></li>
+<li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="linkedin.com/in/rishabh-jain98/">Rishabh Jain</a></li>
 
 <li align="left"> 🔬 Find my Research work on ➡︎ <a href="https://www.ijitee.org/wp-content/uploads/papers/v9i1/A3969119119.pdf">IJITEE Research</a></li>
 

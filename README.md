@@ -16,6 +16,7 @@
 <li align="left"> ⚡ Interesting fact ➡︎ <b>I am a RedHat certified, Ansible specialist & System Administrator.</b></li><br/><br/>
 
 <p align="left">
+<br/><br/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="Ansible" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/> 
 <img src="https://sci2s.ugr.es/sites/default/files/files/TematicWebSites/BigData/hadoop-history.png" alt="Hadoop" width="40" height="40"/>

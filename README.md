@@ -13,7 +13,7 @@
 
 <li align="left"> 📫 Reach me at ➡︎ <b>jain.rishabh1798@gmail.com</b></li>
 
-<li align="left"> ⚡ Interesting fact ➡︎ <b>I am a RedHat certified, Ansible specialist & System Administrator.</b></li><br/><br/>
+<li align="left"> ⚡ Interesting fact ➡︎ <b>I am RedHat certified, Ansible specialist & System Administrator. Also HashiCorp Certified: Terraform Associate too.</b></li><br/><br/>
 
 <p align="left">
 <br/><br/>
@@ -44,6 +44,6 @@
 <br/>
 <p align="center">
 <a href="https://twitter.com/Jain__Saahab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jain__Saahab" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/rishabhjain05/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishabhjain05" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rishabh-jain98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishabh-jain98" height="20" width="20" /></a>
 <a href="https://www.facebook.com/cloudboyRJ/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cloudboyRJ" height="20" width="20" /></a>
 </p>

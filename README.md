@@ -41,8 +41,9 @@
 <span style="background-color: #00FFFF">“ In order to be irreplaceable, one must always be different” – Coco Chanel</span>
 </p>
 
+<br/>
 <p align="center">
-<a href="https://twitter.com/Jain__Saahab" target="blank"><img align="center" src="twitter-white.svg" alt="Jain__Saahab" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/rishabh-jain98/" target="blank"><img align="center" src="linkedin-white.svg" alt="rishabh-jain98" height="20" width="20" /></a>
-<a href="https://www.facebook.com/cloudboyRJ/" target="blank"><img align="center" src="facebook-white.svg" alt="cloudboyRJ" height="20" width="20" /></a>
+<a href="https://twitter.com/Jain__Saahab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Jain__Saahab" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rishabh-jain98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishabh-jain98" height="20" width="20" /></a>
+<a href="https://www.facebook.com/cloudboyRJ/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="cloudboyRJ" height="20" width="20" /></a>
 </p>

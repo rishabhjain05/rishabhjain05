@@ -9,7 +9,7 @@
 
 <li align="left"> 🔬 Find my Research work on ➡︎ <a href="https://www.ijitee.org/wp-content/uploads/papers/v9i1/A3969119119.pdf">IJITEE Research</a></li>
 
-<li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Docker, Hadoop, Jupyter Notebook, Linux, MySql, Pig, Python, Ruby, Wordpress </b></li>
+<li align="left"> 💬 Ask me about ➡︎ <b>Ansible, Bash, Docker, Hadoop, Jenkins, Jupyter Notebook, Kubernetes, Linux, MySql, Python, Terraform, Wordpress </b></li>
 
 <li align="left"> 📫 Reach me at ➡︎ <b>jain.rishabh1798@gmail.com</b></li>
 

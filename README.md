@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhjain05" alt="rishabhjain05" /> </p>
 
-<li align="left"> 🔭 I’m currently working with Helm</a></li>
+<li align="left"> 🔭 I’m currently working on Helm amd Vault</a></li>
 
 <li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/rishabh-jain98/">Rishabh Jain</a></li>
 

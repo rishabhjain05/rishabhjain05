@@ -25,7 +25,6 @@
 <img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes" width="40" height="40"/>
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/>
 <img src="https://avatars.slack-edge.com/2022-06-02/3611814361970_f6a28959c2e7258660ea_512.png" alt="NewRelic" width="40" height="40"/>
-<img src="https://getmanta.com/wp-content/uploads/2019/12/pig_logo.svg" alt="Pig" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="Wordpress" width="40" height="40"/>

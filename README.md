@@ -27,6 +27,7 @@
 <img src="https://avatars.slack-edge.com/2022-06-02/3611814361970_f6a28959c2e7258660ea_512.png" alt="NewRelic" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/>
+<img src="https://icons-for-free.com/iconfiles/png/512/Terraform-1329545833434920628.png" alt="Terraform" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="Wordpress" width="40" height="40"/>
 </p>
 

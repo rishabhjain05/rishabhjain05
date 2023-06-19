@@ -33,7 +33,7 @@
 
 <p align="center">
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhjain05&theme=blue-green&show_icons=true" alt="rishabhjain05" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishabhjain05&theme=blue-green&show_icons=true" alt="rishabhjain05" />
 </p>
 
 <p align="center">
